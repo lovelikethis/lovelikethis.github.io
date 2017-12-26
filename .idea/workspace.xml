@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="49" column="85" lean-forward="false" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+              <caret line="49" column="134" lean-forward="false" selection-start-line="49" selection-start-column="134" selection-end-line="49" selection-end-column="134" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514233591976</updated>
       <workItem from="1514233593277" duration="8086000" />
-      <workItem from="1514331478874" duration="112000" />
+      <workItem from="1514331478874" duration="262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8198000" />
+    <option name="totallyTimeSpent" value="8348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="682" extended-state="0" />
@@ -212,7 +212,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="49" column="85" lean-forward="false" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+          <caret line="49" column="134" lean-forward="false" selection-start-line="49" selection-start-column="134" selection-end-line="49" selection-end-column="134" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
